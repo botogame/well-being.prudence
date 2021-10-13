@@ -91,7 +91,7 @@
 
 ### Программа
 
-Создал прототип катализатора государственных состояний на систему windows: <a href="https://github.com/dominic-of-russia/cradle.freedom/raw/main/Программа/Каталог_ритма_v6.zip">скачать</a>
+Создал прототип катализатора государственных состояний на систему windows: <a href="https://github.com/dominic-of-russia/cradle.freedom/raw/main/Программа/Каталог_ритма_v7.zip">скачать</a>
 
 ![](./Картинки/Программа_v6.jpg)
 
