@@ -98,5 +98,5 @@
 
 Создал прототип катализатора ритмов на систему windows: <a href="https://github.com/dominic-of-russia/cradle.freedom/raw/main/Программа/Колыбель_Свободы.zip">скачать</a>
 
-![](./Картинки/Программа_v6.jpg)
+![](./Картинки/Программа_v7.jpg)
 
