@@ -96,7 +96,7 @@
 
 ### Программа
 
-Создал прототип катализатора государственных ритмов на систему windows: <a href="https://github.com/dominic-of-russia/cradle.freedom/raw/main/Программа/Каталог_ритма_v8.zip">скачать</a>
+Создал прототип катализатора ритмов на систему windows: <a href="https://github.com/dominic-of-russia/cradle.freedom/raw/main/Программа/Колыбель_Свободы.zip">скачать</a>
 
 ![](./Картинки/Программа_v6.jpg)
 
