@@ -1,0 +1,17 @@
+{
+  "props": [],
+  "components": {
+    "fileChooser": {
+      "type": "script\\FileChooserScript",
+      "x": 272,
+      "y": 176,
+      "props": {
+        "filterName": "Видеофайлы",
+        "filterExtensions": "*.AVI, *.WMV, *.MOV, *.MKV, *.3gp, *.MP4",
+        "filterAny": false,
+        "inputNode": "",
+        "actionNode": ""
+      }
+    }
+  }
+}

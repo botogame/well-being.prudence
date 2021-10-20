@@ -1,0 +1,11 @@
+# Ignore rules for GIT (github.com, bitbucket.com, etc.)
+
+/.dn/cache/*
+/.dn/ide.lock
+/.dn/backup/*
+/catalog/Video/Блаженство/*
+/catalog/Video/Возрождение/*
+/catalog/Video/Разложение/*
+/catalog/Video/Упадничество/*
+!.gitkeep
+
