@@ -1,0 +1,4 @@
+# Ignore rules for GIT (github.com, bitbucket.com, etc.)
+
+/.idea
+
